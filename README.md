@@ -1,4 +1,4 @@
-# Account-History-page
+# Web design Exercise
 Some of my project of landing  page design using HTML and CSS practicing web development <br>
 <br>
 ![image](https://user-images.githubusercontent.com/100792438/225322164-b4d79bf6-23b0-40b4-a4e9-c3ae97e49e92.png) <br>
