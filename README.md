@@ -6,3 +6,7 @@ A landing gpage of a horror game. <br>
 # Account History <br>
 A Landing Account history page that show the last transfer <br>
 ![image](https://user-images.githubusercontent.com/100792438/223519349-826c1946-543b-459a-98d8-05c252ccab79.png)
+
+# Backery Navegation menu <br>
+![image](https://user-images.githubusercontent.com/100792438/227988075-5d4c854b-6b5a-42f7-821d-26eff3c3501c.png)
+
